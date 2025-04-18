@@ -1,0 +1,562 @@
+{
+    "2025-04-14": [
+        {
+            "nama": "Vio",
+            "jenis_kelamin": "Perempuan",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Anniasa",
+            "jenis_kelamin": "Perempuan",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Nia",
+            "jenis_kelamin": "Perempuan",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Khanza",
+            "jenis_kelamin": "Perempuan",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Naja",
+            "jenis_kelamin": "Perempuan",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Dio",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Ali",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Nubia",
+            "jenis_kelamin": "Perempuan",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Alicia",
+            "jenis_kelamin": "Perempuan",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Hafidz",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Fian",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Ghibran",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Wafi",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Zea",
+            "jenis_kelamin": "Perempuan",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Ratu",
+            "jenis_kelamin": "Perempuan",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Hasan",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Aqila",
+            "jenis_kelamin": "Perempuan",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Ilham",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Kenzo",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Yafie",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Ibra",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Nayla",
+            "jenis_kelamin": "Perempuan",
+            "status": "Hadir"
+        }
+    ],
+    "2025-04-15": [
+        {
+            "nama": "Vio",
+            "jenis_kelamin": "Perempuan",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Anniasa",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Nia",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Khanza",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Naja",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Dio",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Ali",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Nubia",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Alicia",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Hafidz",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Fian",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Ghibran",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Wafi",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Zea",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Ratu",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Hasan",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Aqila",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Ilham",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Kenzo",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Yafie",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Ibra",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Nayla",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        }
+    ],
+    "2025-04-30": [
+        {
+            "nama": "Vio",
+            "jenis_kelamin": "Perempuan",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Anniasa",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Nia",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Khanza",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Naja",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Dio",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Ali",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Nubia",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Alicia",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Hafidz",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Fian",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Ghibran",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Wafi",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Zea",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Ratu",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Hasan",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Aqila",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Ilham",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Kenzo",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Yafie",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Ibra",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Nayla",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        }
+    ],
+    "2025-04-25": [
+        {
+            "nama": "Vio",
+            "jenis_kelamin": "Perempuan",
+            "status": "Hadir"
+        },
+        {
+            "nama": "Anniasa",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Nia",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Khanza",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Naja",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Dio",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Ali",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Nubia",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Alicia",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Hafidz",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Fian",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Ghibran",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Wafi",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Zea",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Ratu",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Hasan",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Aqila",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Ilham",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Kenzo",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Yafie",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Ibra",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Nayla",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        }
+    ],
+    "2025-04-24": [
+        {
+            "nama": "Vio",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Anniasa",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Nia",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Khanza",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Naja",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Dio",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Ali",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Nubia",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Alicia",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Hafidz",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Fian",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Ghibran",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Wafi",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Zea",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Ratu",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Hasan",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Aqila",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Ilham",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Kenzo",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Yafie",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Ibra",
+            "jenis_kelamin": "Laki-laki",
+            "status": "Alpha"
+        },
+        {
+            "nama": "Nayla",
+            "jenis_kelamin": "Perempuan",
+            "status": "Alpha"
+        }
+    ]
+}
